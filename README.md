@@ -3,7 +3,7 @@
 Sonic 1 for the Atari Falcon 030. 
 First public alpha :)
 
-Requires a Falcon 030 at 16 MHz, 4 MB of ST-RAM and an RGB display (50 Hz).
+Requires a Falcon 030 at 16 MHz, with 4 MB of RAM.
 The game runs at 320 x 224 with background parallax and DMA sound.
 
 Only Green Hill Zone Act 1 is included for now.
@@ -26,9 +26,7 @@ The [STE / Mega STE version](https://github.com/guybrush-atari/Sonic-STE) is ava
 
 ## This alpha
 
-Frame rate varies with the scene; optimisation is ongoing. Development measurements use Hatari with sound enabled. No new FPS figure is claimed for this release, and physical Falcon compatibility is still being confirmed.
-
-
+Frame rate varies with the scene; optimisation is ongoing.
 
 ## Credits
 
